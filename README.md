@@ -1,4 +1,5 @@
 🎵 Sangeetify
+
 Sangeetify is a simple and functional music player app designed to make listening to your favorite songs effortless.
 
 Features:
